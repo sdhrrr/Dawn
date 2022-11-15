@@ -6,7 +6,7 @@
 
 
 .container {
-    background: url(/Images/bgg2.jpg);
+    background: url(Images/bgg2.jpg);
     background-size: cover;
     background-repeat: no-repeat;
 }
@@ -215,7 +215,7 @@ main {
 .work-image {
     height: 380px;
     width: 460px;
-    background-image: url(/Images/keys.jpg?);
+    background-image: url(Images/keys.jpg?);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
